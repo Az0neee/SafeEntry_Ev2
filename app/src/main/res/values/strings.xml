@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SafeEntry</string>
+    <string name="crear_cuenta">Registrar Cuenta</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="confirmar_contrasena">Confirmar contraseña</string>
+    <string name="tambien_puede_utilizar">Tambien puede utilizar</string>
+    <string name="ya_tienes_una_cuenta_inicia_sesion">¿Ya tienes una cuenta? Inicia sesion</string>
+    <string name="iniciar_sesion_con_facebook">Iniciar sesion con Facebook</string>
+    <string name="iniciar_sesion_con_google">Iniciar sesion con Google</string>
+    <string name="iniciar_sesion_con">Iniciar sesion con</string>
+    <string name="login_facebook">login facebook</string>
+    <string name="login_google">login google</string>
+    <string name="no_tienes_una_cuenta_registrate">¿No tienes una cuenta? Registrate</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+    <string name="olvidaste_tu_contrasena_recuperala">¿Olvidaste tu contraseña? Recuperala</string>
+    <string name="recuperar_contrasena">Recuperar Contraseña</string>
+    <string name="Descripcion_recuperarcontrasena">Ingrese su nombre de usuario para crear su nueva contraseña</string>
+    <string name="cambiar_contrasena">Cambiar Contraseña</string>
+    <string name="restablecer_contrasena">Restablecer Contraseña</string>
+    <string name="recordaste_tu_cuenta_inicia_sesion">¿Recordaste tu cuenta? Inicia Sesion</string>
+    <string name="nueva_contrasena">Nueva contraseña</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="mis_puertas">Mis Puertas</string>
+    <string name="inicio">Inicio</string>
+    <string name="registro">Registro</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="configuracion">Configuracion</string>
+    <string name="perfil">Perfil</string>
+    <string name="anadir_puerta">Añadir Puerta</string>
+</resources>

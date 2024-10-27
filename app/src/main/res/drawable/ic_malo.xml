@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+  <!-- Parte Azul -->
+  <path
+      android:fillColor="#4285F4"
+      android:pathData="M12 12v3.84h5.5c-0.8 1.9-2.28 3.5-4.1 4.14l3.72 2.88C20.8 20.17 23 17.13 23 14c0-0.84-0.1-1.66-0.28-2.47H12z" />
+
+  <!-- Parte Verde -->
+  <path
+      android:fillColor="#34A853"
+      android:pathData="M12 12v-3.6H6.7c-0.8 1.6-1.2 3.5 0 6.7L12 12z" />
+
+  <!-- Parte Amarilla -->
+  <path
+      android:fillColor="#FBBC05"
+      android:pathData="M12 12v3.84H16c-1.4 2.5-4.34 4.1-7.5 3.6l3.72 2.9C17.5 20.7 21 17.2 21 12.5 21 11.74 20.89 11 20.7 10.25z" />
+
+  <!-- Parte Roja -->
+  <path
+      android:fillColor="#EA4335"
+      android:pathData="M5.7 6.2L12 12H6.7C6.7 9.42 7.79 7.26 9.6 5.9z" />
+</vector>
